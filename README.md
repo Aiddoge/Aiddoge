@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aiddoge
-- 👀 I’m interested in ... learning about vms
+- 👀 I’m interested in ... i dont really know, emulators seem kind of cool
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... nothing yet
 - 📫 How to reach me ... discord Aiddoge#6347
